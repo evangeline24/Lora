@@ -16,6 +16,6 @@ Las tres categorías de dispositivos LoRaWAN se definen como:
 
 
 Cada uno de los cuales permite disminución de la latencia a costa de mayores requisitos de energía.
-> La latencia, en términos informáticos la podemos definir como el tiempo que transcurre entre una orden y la respuesta que se produce a esa orden >concreta. Entonces, como podremos suponer la latencia se mide en unidad de tiempo, concretamente en milisegundos o microsegundos, ya que el segundo sería >una medida demasiado alta como para aplicarla a sistemas microinformáticos. Con la latencia estamos midiendo el tiempo que estamos esperando desde que >damos una orden hasta que recibimos la respuesta que esperamos.
+> La latencia, en términos informáticos la podemos definir como el tiempo que transcurre entre una orden y la respuesta que se produce a esa orden concreta. Entonces, como podremos suponer la latencia se mide en unidad de tiempo, concretamente en milisegundos o microsegundos, ya que el segundo sería una medida demasiado alta como para aplicarla a sistemas microinformáticos. Con la latencia estamos midiendo el tiempo que estamos esperando desde que damos una orden hasta que recibimos la respuesta que esperamos.
 
 
