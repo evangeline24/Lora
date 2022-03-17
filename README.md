@@ -18,4 +18,22 @@ Las tres categorías de dispositivos LoRaWAN se definen como:
 Cada uno de los cuales permite disminución de la latencia a costa de mayores requisitos de energía.
 > La latencia, en términos informáticos la podemos definir como el tiempo que transcurre entre una orden y la respuesta que se produce a esa orden concreta. Entonces, como podremos suponer la latencia se mide en unidad de tiempo, concretamente en milisegundos o microsegundos, ya que el segundo sería una medida demasiado alta como para aplicarla a sistemas microinformáticos. Con la latencia estamos midiendo el tiempo que estamos esperando desde que damos una orden hasta que recibimos la respuesta que esperamos.
 
+## Características del producto
+
+| Característica |
+| ------ |
+|Basado en  STM32WLE5CCU6 |
+|Cumple con la especificación  LoRaWAN 1.0.3 
+|Bandas admitidas  EU433, CN470, IN865, EU868, AU915, US915, KR920, RU864 y AS923-1/2/3/4 |
+|Activación LoRaWAN por OTAA/ABP |
+|Comunicación LoRa punto a punto (P2P) |
+|Conjunto de comandos AT fácil de usar a través de la interfaz UART |
+|Largo alcance más de 15 km con antena optimizada |
+|ARM Cortex-M4 de 32 bits |
+|Memoria flash de 256 kbytes con ECC |
+|RAM de 64 kbytes |
+|Consumo de energía ultrabajo de 1,69 μA en modo de suspensión |
+|Voltaje de suministro: 2,0 V ~ 3,6 V |
+|Rango de temperatura: -40°C ~ 85°C |
+
 
